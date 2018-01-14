@@ -7,7 +7,7 @@ on the project to have access to the repository, and allows them to share their 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+So you can pull changes at logical places in the project where a commit was made that you need on your local repository in order to work on the project.  This avoids clutter/unnecessary updates to your local repository.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
